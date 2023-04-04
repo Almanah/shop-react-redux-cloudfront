@@ -17,8 +17,8 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 - [TypeScript](https://www.typescriptlang.org/) as a type checking tool
 
 ## Links
-- [S3 website](http://denis-savchyshkin-my-store-app.s3-website.eu-north-1.amazonaws.com) (throws 403 Access Denied)
-- [Cloudfront](https://d2ivdoufayzijp.cloudfront.net)
+- [S3 website](http://my-store-app-fe.s3-website-us-east-1.amazonaws.com/) (throws 403 Access Denied)
+- [Cloudfront](https://d67fitjh1w6k3.cloudfront.net/)
 
 ## Available Scripts
 
